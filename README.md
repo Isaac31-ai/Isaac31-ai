@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Isaac31-ai
-- 👀 I’m interested in Business Analytics
+- 👀 I’m interested in Business Analytics, data and artificial intelligence
 - 🌱 I’m currently learning Machine learning, Data science
 - 📫 How to reach me on aimeolla@gmail.com
 
